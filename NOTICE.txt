@@ -1,2 +1,2 @@
-Canonical name mappings for ADBC drivers
+Canonical Name Mappings for ADBC Drivers
 Copyright 2026 ADBC Drivers Contributors
