@@ -51,9 +51,9 @@ Example release description:
 
 This project follows [Semantic Versioning](https://semver.org/):
 
-- **Patch version** (X.Y.**Z**): Fixes to existing mappings (e.g., correcting a typo in a driver name)
+- **Patch version** (X.Y.**Z**): Fixes to errors in recently added mappings (e.g., correcting a typo in a driver name)
 - **Minor version** (X.**Y**.0): Additions of new mappings
-- **Major version** (**X**.0.0): Breaking changes or format changes to the YAML structure
+- **Major version** (**X**.0.0): Changes or removals of established mappings, or format changes to the YAML structure
 
 All mapping files share the same version number and are released together. When making a release, update the `version` field in every mapping file's metadata, even if only one file has changes. This ensures consumers can rely on a single version number for the entire set of mappings.
 
