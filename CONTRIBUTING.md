@@ -22,7 +22,7 @@ Issues and PRs are welcome. If you want to ask questions before opening an issue
 
 Update `system-to-driver.yaml` when:
 
-- A new ADBC-installable driver is added (add a self-mapping, e.g., `postgresql: postgresql`)
+- A new [dbc](https://docs.columnar.tech/dbc/)-installable driver is added (add a self-mapping, e.g., `postgresql: postgresql`)
 - A new system has been tested and verified to work with an existing driver
 - There is a change to the preferred driver to use with a system
 
