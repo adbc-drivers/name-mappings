@@ -22,5 +22,7 @@ This repository currently contains two mapping files:
 
 | File | Description |
 |------|-------------|
-| `system-to-driver.yaml` | Maps data system names to compatible driver names |
 | `alias-to-driver.yaml` | Maps driver aliases to canonical driver names |
+| `system-to-driver.yaml` | Maps data system names to compatible/preferred driver names |
+
+Canonical driver names correspond to the driver names used to install drivers with [dbc](https://docs.columnar.tech/dbc/).
