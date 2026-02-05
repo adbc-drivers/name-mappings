@@ -25,4 +25,4 @@ This repository currently contains two mapping files:
 | [`alias-to-driver.yaml`](./alias-to-driver.yaml) | Maps driver aliases to canonical driver names |
 | [`system-to-driver.yaml`](./system-to-driver.yaml) | Maps data system names to compatible/preferred driver names |
 
-- These mappings are only valid as forward mappings (left to right). The reverse direction is not necessarily meaningful or valid.
+These mappings are only valid as forward mappings (left to right). The reverse direction is not necessarily meaningful or valid.
