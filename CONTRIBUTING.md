@@ -26,6 +26,8 @@ Update `system-to-driver.yaml` when:
 - A new system has been tested and verified to work with an existing driver
 - There is a change to the preferred driver to use with a system
 
+Keep all mappings in alphabetical order by key.
+
 ## Releases
 
 ### GitHub Actions Workflow
