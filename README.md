@@ -22,5 +22,5 @@ This repository currently contains two mapping files:
 
 | File | Description |
 |------|-------------|
-| `alias-to-driver.yaml` | Maps driver aliases to canonical driver names |
-| `system-to-driver.yaml` | Maps data system names to compatible/preferred driver names |
+| [`alias-to-driver.yaml`](./alias-to-driver.yaml) | Maps driver aliases to canonical driver names |
+| [`system-to-driver.yaml`](./system-to-driver.yaml) | Maps data system names to compatible/preferred driver names |
