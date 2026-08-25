@@ -13,34 +13,48 @@
 # limitations under the License.
 
 metadata:
-  version: "0.1.0"
-  updated: "2026-02-05"
+  version: "0.2.0"
+  updated: "2026-08-25"
 mappings:
-  bigquery: bigquery
-  cedardb: postgresql
-  citus: postgresql
-  cockroachdb: postgresql
-  cratedb: postgresql
-  databricks: databricks
-  deephaven: flightsql
-  doris: flightsql
-  dremio: flightsql
-  duckdb: duckdb
-  gizmosql: flightsql
-  influxdb: flightsql
-  mariadb: mysql
-  mssql: mssql
-  mysql: mysql
-  neon: postgresql
-  paradedb: postgresql
-  postgresql: postgresql
-  redshift: redshift
-  snowflake: snowflake
-  sqlite: sqlite
-  starrocks: flightsql
-  tidb: mysql
-  timescaledb: postgresql
-  trino: trino
-  vitess: mysql
-  yellowbrick: postgresql
-  yugabytedb: postgresql
+  bigquery: bigquery # BigQuery
+  cassandra: cassandra # Apache Cassandra
+  cedardb: postgresql # CedarDB
+  chdb: chdb # chDB
+  citus: postgresql # Citus
+  clickhouse: clickhouse # ClickHouse
+  cockroachdb: postgresql # CockroachDB
+  cratedb: postgresql # CrateDB
+  databricks: databricks # Databricks
+  datafusion: datafusion # DataFusion
+  deephaven: flightsql # Deephaven
+  doris: flightsql # Apache Doris
+  dremio: flightsql # Dremio
+  duckdb: duckdb # DuckDB
+  exasol: exasol # Exasol
+  flightsql: flightsql # Apache Arrow Flight SQL
+  gizmosql: flightsql # GizmoSQL
+  influxdb: flightsql # InfluxDB
+  mariadb: mysql # MariaDB
+  motherduck: duckdb # MotherDuck
+  mssql: mssql # Microsoft SQL Server
+  mysql: mysql # MySQL
+  neon: postgresql # Neon
+  oracle: oracle # Oracle Database
+  paradedb: postgresql # ParadeDB
+  postgresql: postgresql # PostgreSQL
+  presto: presto # Presto
+  quack: quack # Quack
+  redshift: redshift # Amazon Redshift
+  sail: flightsql # Sail
+  singlestore: singlestore # SingleStore
+  snowflake: snowflake # Snowflake
+  spark: spark # Apache Spark
+  sqlite: sqlite # SQLite
+  starrocks: flightsql # StarRocks
+  teradata: teradata # Teradata
+  tidb: mysql # TiDB
+  timescaledb: postgresql # TimescaleDB
+  trino: trino # Trino
+  vitess: mysql # Vitess
+  yellowbrick: postgresql # Yellowbrick
+  yugabytedb: postgresql # YugabyteDB
