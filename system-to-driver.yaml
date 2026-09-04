@@ -13,8 +13,8 @@
 # limitations under the License.
 
 metadata:
-  version: "0.2.0"
-  updated: "2026-08-25"
+  version: "0.3.0"
+  updated: "2026-09-04"
 mappings:
   bigquery: bigquery # BigQuery
   cassandra: cassandra # Apache Cassandra
@@ -35,6 +35,7 @@ mappings:
   gizmosql: flightsql # GizmoSQL
   influxdb: flightsql # InfluxDB
   mariadb: mysql # MariaDB
+  materialize: postgresql # Materialize
   motherduck: duckdb # MotherDuck
   mssql: mssql # Microsoft SQL Server
   mysql: mysql # MySQL
